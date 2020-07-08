@@ -9,7 +9,10 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "git-commit-msg-linter": "^2.4.4"
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^14.0.19",
+    "git-commit-msg-linter": "^2.4.4",
+    "typescript": "^3.9.6"
   }
 }
