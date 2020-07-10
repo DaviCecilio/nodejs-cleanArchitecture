@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "check": "npm-check -s -u",
-    "test": "jest",
-    "test:staged": "jest"
+    "test": "jest --passWithNoTest",
+    "test:staged": "jest --passWithNoTest"
   },
   "keywords": [],
   "author": "",
